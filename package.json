@@ -19,7 +19,7 @@
     "conversion"
   ],
   "dependencies": {
-    "jpgjs": "github:notmasteryet/jpgjs",
+    "jpgjs": "github:junov/jpgjs",
     "pako": "^1.0.5"
   }
 }
